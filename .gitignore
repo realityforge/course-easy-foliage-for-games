@@ -78,3 +78,6 @@ tmp/
 # Blender Autosave
 **/*.blend?
 **/*.blend??
+
+# Speed Tree temp/Autosaves
+**/~*.sbk
