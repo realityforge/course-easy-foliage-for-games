@@ -1,0 +1,2 @@
+* This photoshop file contains Ivy_Bark textures from Texture.com, clipped to be less wide. 
+* The Substance designer file takes the output normal and then blends it ontop of a normal curve (to give the branch appearnce of curve) and outputs the normal (to be imported into SpeedTree)
